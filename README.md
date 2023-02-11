@@ -11,7 +11,7 @@ A multi-class program that uses recursive algorithms to solve a maze for any sta
 1. Clone the repository to your local machine
 2. Compile and run the program in your Java environment.
 3. Input the start and end points of the maze.
-4. he program will output the solution of the maze.
+4. The program will output the solution of the maze.
 
 ## Notes
 * The program assumes that the maze is constructed with a specific set of characters. These characters and their 
